@@ -38,6 +38,6 @@ Behavioral data science research using runs analysis
 ---
 
 ### 🌐 Connect With Me
-- LinkedIn: [(add link)](https://www.linkedin.com/in/mansi-shukla-7b6054295/)
-- Portfolio: [(add link)](https://mansishukla1509.vercel.app/)
+- LinkedIn: [(https://www.linkedin.com/in/mansi-shukla-7b6054295/)]
+- Portfolio: [(https://mansishukla1509.vercel.app/)]
 - Email: mansishukla1509@gmail.com
